@@ -16,4 +16,4 @@ So, open a url http://localhost:3000 in your favorite browser.
 
 This is the scree record in execution:
 
-![Netflix clone in execution](images/netflix-m.gif)
+![Netflix clone in execution](public/images/netflix-m.gif)
